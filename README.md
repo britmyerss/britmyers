@@ -21,7 +21,7 @@
 
 - Born and raised in Cleveland, Ohio
 - Married to my husband Rob for almost 8 years
-- Mother to 3 amazing daughters (and one son on the way!)
+- Mother to 3 amazing daughters and one happy little guy born Sept of 22!
 - Hobbies (when I have time 😅): 
     - Lifestyle and family photography
     - Woodworking and DIY projects around the house
