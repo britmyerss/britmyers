@@ -1,9 +1,12 @@
 # Assertion Readme
 ## Table of contents
-- [About](#about)
-- [Contributing](#contributing)
-- [Background](#background)
-- [Assertions](#assertions)
+- [Assertion Readme](#assertion-readme)
+  - [Table of contents](#table-of-contents)
+  - [About](#about)
+  - [Contributing](#contributing)
+  - [Background](#background)
+    - [Disclaimer](#disclaimer)
+  - [Assertions](#assertions)
 
 ## About
 According to Oxford Languages, to assert is *to state clearly and definitely that something is true.* As such, I wanted to create a place for people to contribute assertions about me that they believe to be true. This directory's purpose is to hold those assertions made by others, because while my Manager Readme is essentially just a set of assertions I've made about myself, I want to experiment with this concept and extend it to include perspectives outside of my own. This directory might very well sit empty forever, and that'd be ok - that's why it's an experiment!
@@ -28,3 +31,4 @@ If you've stumbled here and don't find any assertions, please don't hold it agai
 ## Assertions
 Please add asserts here 👇🏻! (Doesn't have to be bullet form - anywhere in this section is fine!)
 * Mom is good at feeding Calvin - Roommates since 2018 - Cori 
+* Brit and I crossed our path in 2021 for 5 months in total when Hyland aquired Nuxeo. During my carreer, I've always tried to work with leaders who help me grow. I worked with Brit's team and found empowered, innovative and fun people there, then I thought: "Hey it would be cool to work for this inspiring leader" - Colleagues at Hyland 2021 - Damien
