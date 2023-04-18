@@ -61,7 +61,7 @@ As a leader, I believe my job is to build amazing teams and empower them to use 
 ### I ask lots of questions
 You should expect a lot of questions from me. They aren't from a place of distrust, but to improve my understanding, to learn something new, to understand or challenge your assumptions, ensure you have the right information to be successful, or to bring clarity to your own thoughts.
 ### I adapt
-Over the years, I have learned that there's not a Over the years, I have learned that there's not a one-size-fits-all approach to leadership. Different people have different expectations and needs, and I expect to adapt my approach to what works best for your own growth and support. This doesn't mean I'll be the best leader for you right away, but this does mean I will do my best to build the skills needed to meet you where you are.
+Over the years, I have learned that there's not a one-size-fits-all approach to leadership. Different people have different expectations and needs, and I expect to adapt my approach to what works best for your own growth and support. This doesn't mean I'll be the best leader for you right away, but this does mean I will do my best to build the skills needed to meet you where you are.
 
 ## What I value
 ### Openness and Honesty
