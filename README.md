@@ -12,7 +12,6 @@
 
  Hi! Welcome to my personal readme, a guide to how I work and what you can expect when working with me. My intention is for this to help new people learn about me and speed up the 'get to know you' phase. Whether you are someone who reports to me, someone I report to, a peer, or really anyone else, I hope that after reading this you feel more comfortable building a relationship with me and know a bit more about how I operate.
 
-
 ## About Me
 
 ### The Personal Stuff
@@ -20,19 +19,19 @@
 (Things about me you can find on the internet without much effort)
 
 - Born and raised in Cleveland, Ohio
-- Married to my husband Rob for almost 8 years
-- Mother to 3 amazing daughters and one happy little guy born Sept of 22!
+- My husband Rob and I have 4 amazing kids
 - Hobbies (when I have time 😅): 
     - Lifestyle and family photography
     - Woodworking and DIY projects around the house
     - Gardening - vegetables, fruit, and recently native landscaping
+    - Crafting - embroidery and crochet
 
 ### The Work Stuff
 
 (Things you can find on my resume or LinkedIn)
 
 - B.S. in Mathematics from Carnegie Mellon
-- MBA from the University of Michigan Ross School of Business (graduating May 2023!)
+- MBA from the University of Michigan Ross School of Business
 - Started as a full-stack developer and progressed down the managerial leadership track
 - All of my experience is in the B2B space, leading product development teams to build products that are SaaS, managed, and on premise and used across a wide variety of industries (healthcare, insurance, government, higher education, etc.)
 - I have lead technical and non-technical roles
